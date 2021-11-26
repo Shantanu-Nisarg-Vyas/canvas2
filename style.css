@@ -1,0 +1,17 @@
+h1{
+	color: rgb(131, 21, 221); 
+	font-size: 40px;
+}
+
+#bodybackground {
+	background-image: url("bg1.png");
+	background-position: center;
+	background-size: cover;
+}
+
+#Canvas1{
+    border-width: 10px;
+	background-color: rgb(255, 255, 255); 
+	border-style: solid;
+	border-color: rgb(75, 85, 40);
+}
